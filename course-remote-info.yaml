@@ -1,0 +1,192 @@
+hyperskill_project:
+  id: 163
+  ide_files: https://cogniterra.org/media/attachments/lesson/25376/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 29 Jun 2023 12:31:49 UTC"
+stages:
+- id: 844
+  step: 12318
+  is_completed: true
+- id: 845
+  step: 12319
+  is_completed: true
+- id: 846
+  step: 12320
+  is_completed: true
+- id: 847
+  step: 12321
+  is_completed: true
+- id: 848
+  step: 12322
+  is_completed: true
+- id: 849
+  step: 12323
+  is_completed: true
+- id: 850
+  step: 12324
+  is_completed: true
+topics:
+  0:
+  - title: IDE
+    theory_id: 10996
+  - title: Introduction to Operating systems
+    theory_id: 9704
+  - title: Command line overview
+    theory_id: 8977
+  - title: Parameters and Options
+    theory_id: 9746
+  - title: Introduction to Python
+    theory_id: 5204
+  - title: Overview of the basic program
+    theory_id: 5208
+  - title: Multi-line programs
+    theory_id: 5233
+  - title: PEP 8
+    theory_id: 5879
+  - title: Comments
+    theory_id: 6081
+  - title: Load module
+    theory_id: 6019
+  - title: Create module
+    theory_id: 6057
+  - title: Packages
+    theory_id: 6384
+  - title: Taking input
+    theory_id: 5913
+  - title: Naming variables
+    theory_id: 5885
+  - title: Pip
+    theory_id: 6230
+  - title: Virtual Environment
+    theory_id: 13923
+  - title: Program with numbers
+    theory_id: 5872
+  - title: PyCharm basics
+    theory_id: 6193
+  - title: Running Python applications in PyCharm
+    theory_id: 19153
+  - title: Basic data types
+    theory_id: 5852
+  - title: Variables
+    theory_id: 5859
+  - title: Invoking a function
+    theory_id: 5891
+  - title: Integer arithmetic
+    theory_id: 5865
+  - title: Quotes and multi-line strings
+    theory_id: 5814
+  1:
+  - title: If statement
+    theory_id: 5953
+  - title: Else statement
+    theory_id: 5932
+  - title: For loop
+    theory_id: 6065
+  - title: Elif statement
+    theory_id: 5926
+  - title: Declaring a function
+    theory_id: 5900
+  - title: List
+    theory_id: 5979
+  - title: Boolean logic
+    theory_id: 6025
+  - title: Comparisons
+    theory_id: 5920
+  - title: Indexes
+    theory_id: 6189
+  - title: Basic string methods
+    theory_id: 6842
+  2:
+  - title: Immutability
+    theory_id: 7929
+  - title: Computer programming
+    theory_id: 8739
+  - title: Paradigms
+    theory_id: 15860
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: While loop
+    theory_id: 5940
+  - title: Loop control statements
+    theory_id: 6302
+  - title: Iterators
+    theory_id: 8479
+  - title: Ordering and total order
+    theory_id: 9253
+  - title: Arguments
+    theory_id: 7248
+  - title: Escape sequences
+    theory_id: 7130
+  - title: Split and join
+    theory_id: 6972
+  - title: List comprehension
+    theory_id: 6315
+  - title: Dictionary
+    theory_id: 6481
+  - title: Operations with list
+    theory_id: 6031
+  - title: Nested lists
+    theory_id: 6938
+  - title: Set
+    theory_id: 6643
+  - title: Lambda functions
+    theory_id: 7092
+  - title: Tuple
+    theory_id: 7462
+  - title: How to choose a collection to use
+    theory_id: 13907
+  - title: Sorting a list
+    theory_id: 10059
+  3:
+  - title: Files
+    theory_id: 13025
+  - title: File types
+    theory_id: 13017
+  - title: Working with file modes and permissions
+    theory_id: 13961
+  - title: Debugging Python applications in PyCharm
+    theory_id: 19163
+  - title: Introduction to Linux
+    theory_id: 9526
+  - title: File modes and permissions
+    theory_id: 13953
+  - title: Files in Python
+    theory_id: 8691
+  - title: Reading files
+    theory_id: 8139
+  - title: Intro to computational thinking
+    theory_id: 8742
+  - title: Components of computational thinking
+    theory_id: 8745
+  - title: Scopes
+    theory_id: 6322
+  - title: Dictionary methods
+    theory_id: 9008
+  - title: Operations with dictionary
+    theory_id: 11096
+  - title: Slicing
+    theory_id: 6177
+  - title: Functional decomposition
+    theory_id: 9571
+  4:
+  - title: Program execution
+    theory_id: 6047
+  - title: Errors
+    theory_id: 6052
+  - title: Exceptions
+    theory_id: 6042
+  - title: Built-in exceptions
+    theory_id: 11680
+  - title: Exception handling
+    theory_id: 6270
+  5:
+  - title: Math functions
+    theory_id: 6256
+  - title: Writing files
+    theory_id: 8334
+  6:
+  - title: os module
+    theory_id: 11119
+  - title: Context manager
+    theory_id: 8702
